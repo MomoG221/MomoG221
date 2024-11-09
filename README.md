@@ -1,11 +1,5 @@
 # Hi there 👋
 
-# 💫 About Me:
-- 🔭 I’m currently working on a variety of web development projects, including MERN stack applications and responsive platforms for different use cases.
-- 👯 I’m looking to collaborate on open-source projects or innovative web applications using React, Node.js, or databases like MongoDB and PostgreSQL.
-- 🤔 I'm looking for help with optimizing large-scale applications or any advanced backend challenges using Node.js or database design.
-- 🌱 I'm currently learning advanced MongoDB and Mongoose for backend development, as well as improving my skills in API design and integration.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamed-gueye-249b55264/) 
 
